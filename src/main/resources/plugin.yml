@@ -1,0 +1,10 @@
+name: 'CoolPlugin'
+version: '1.0.0'
+main: com.ni_coni_coni.coordonateconverter.Main
+
+# Replace "kit" with the name of your command.
+commands:
+  convertposition:
+    description: Your description
+    usage: /convertposition
+    permission: ConvertPosition.convertposition
